@@ -15,8 +15,8 @@ Api foro, para la consulta y respuesta sobre temas de interes en los cursos vist
 - Autenticación de los usuarios con Spring Security y JWT
 - Documentación con Swagger
 ## Base de datos
-![App Screenshot](https://github.com/chard33/challengeOneForoAluraLatam/raw/main/src/main/resources/BD.png)
+![](https://github.com/chard33/challengeOneForoAluraLatam/raw/main/src/main/resources/BD.png)
 ## Muestra
 
-![App Screenshot](https://github.com/chard33/challengeOneForoAluraLatam/raw/main/src/main/resources/Captura.png)
+![](https://github.com/chard33/challengeOneForoAluraLatam/raw/main/src/main/resources/Captura.png)
 
